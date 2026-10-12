@@ -160,3 +160,5 @@ dt{font:700 10px var(--b);letter-spacing:2px;text-transform:uppercase;color:#888
 .quote{font:italic 18px/1.5 var(--s)}
 .stb{white-space:nowrap}
 .js .rv{opacity:1!important;transform:none!important;transition:none!important}
+.stb.nev{background:#ffd34d;color:#000}.stb.se{background:#5b6fae;color:#fff}
+.cover.typo .ghost{font-size:clamp(140px,20vw,300px)}
