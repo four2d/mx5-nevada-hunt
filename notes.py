@@ -1,0 +1,21 @@
+# id: (pros, checks, verdict, flag)
+N={
+"202610116891036":(["Low miles for the year","Euphonic limited edition (1.8)"],["Service history shown as 'None' on AutoTrader","5 owners","Coilovers fitted (search result): check the ride and ask for an alignment report"],"A low-mileage Euphonic, but £5,500 is a lot without full history.",None),
+"202608265466277":(["Cheapest car in the hunt","Private seller, owned 4 years"],["102k miles, 6 owners","1.6 engine","No service history listed"],"A budget way in. Inspect the sills hard.",None),
+"202610116884405":(["Arctic edition 1.8 with heated seats and air con","Full service history, unmodified","Closest to Poole, about 35 mi"],["Rust in the rear arches (ad)","Damage to the boot lock from an attempted break-in (ad)","MOT until April (ad)"],"Our best value: a nearby, documented limited edition at £3,500.",None),
+"202610026601741":(["Montana edition, Merlot red","Hardtop included","Same owner since 2010, recently serviced and MOT'd"],["Air con needs a recharge (ad)","On the Isle of Wight, so you need a ferry"],"Good value with a hardtop thrown in. Book a Red Funnel crossing.",None),
+"202608175183687":([],["Listed as a 2003 1.8 S, but the description says it's a 1994 Mk1 automatic, and the photo shows pop-up headlights","11 owners, imported"],"Not an NB-FL. Leave it out.", "Not an NB (Mk1)"),
+"202609156062089":(["Euphonic with a factory LSD (ad)","Fresh MOT to Sep 2027 with 1 advisory (ad)","Heated leather seats"],["10 owners","No service history listed"],"A lot of car for £3,400 if the bodywork is sound.",None),
+"202610046657224":(["Chilli Orange Icon edition, full service history","Heated seats (search result)"],["Several modifications (ad), starting with a K&N cold air intake"],"Nicely specced, but £5,500 is top money.",None),
+"202608064866422":(["Only 26,340 miles, completely stock (ad)","Full history, mostly from Mazda (ad)","Grace Green 1.8 VVT"],["5 owners despite the low miles"],"A collector-grade original. Worth the premium if it's as described.",None),
+"202609105905707":(["Same owner for 20 years, MOT to Sep 2027 (ad)","Heated leather seats"],["125k miles"],"A high-miler that's been cared for. The price reflects the miles.",None),
+"202610106868111":(["Cambelt done, two keys, leather (ad)","Dealer: full year's MOT"],["110k miles","The trader is based in Yateley (ad)"],"Fair money for a trade car with the cambelt done.",None),
+"202607244484158":(["Only 33,921 miles, California limited edition","Full service history, always garaged"],["Y-reg (2001), so it may be the pre-facelift NB. Check the headlights and bumper","Rust spot on the rear arch and sill repaired recently (ad)"],"Lovely and low-mileage, but it may not be a facelift car.","May be pre-facelift"),
+"202610036631127":(["One owner from new, 65,200 miles (ad)","Full service history, always garaged"],["51-plate, so an early car"],"Rare one-owner history. Strong value at £3,500.",None),
+"202609025633486":(["2 owners, cared for for almost a decade (ad)","Brakes overhauled, receipts (ad)"],["£5,495 is high","Has had resprays (ad)"],"Good history, but priced at the top.",None),
+"202610056700411":(["47,600 miles, underside sealed with no rust (ad)","MOT to 26 Mar 2027, Icon with heated seats"],["About 130 mi from Poole"],"A solid low-mileage Icon. Fair money.",None),
+"202608205272327":(["Specialist MX-5 dealer, can be reserved"],["£6,950 for a 1.6 is the most expensive here","Owners not listed"],"Dealer premium. Only if you want a warranty-style purchase.",None),
+"202508255741644":(["Described as rust free, with new clutch hydraulics, discs and pads (ad)"],["The ad ID suggests it was first listed in Aug 2025, so it's been unsold a long time","Y-reg 1.6"],"Long unsold. Make an offer.",None),
+"202610116885981":(["Brand new service and MOT, lots of recent parts (ad)"],["7 owners, part service history"],"Lots of fresh parts for £3,500. A decent buy.",None),
+"202607214378844":(["Dealer, good service history (ad), 57k miles"],["£5,500 is a dealer price","Owners not listed"],"Tidy, but expensive.",None),
+}
